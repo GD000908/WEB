@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Personal files and directories
+AppData/
+.config/
+.gitconfig
+.github/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+LOST ARK.url
+STOVE.lnk
+Visual Studio Code.lnk
